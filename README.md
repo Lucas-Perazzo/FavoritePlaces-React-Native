@@ -7,4 +7,6 @@ Application where I use the location, the camera and a local database (SQLite) t
 
 Explo App is required
 
+GOOGLE API KEY is required to test Location Features
+
 Enjoy!
