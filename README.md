@@ -1,0 +1,1 @@
+# FavoritePlaces-React-Native
