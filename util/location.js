@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = 'AIzaSyBTEmRK7SVoWISZ459suavLd7B64vAj9Mo';
+const GOOGLE_API_KEY = 'ENTER_YOUR_API_KEY_FOR_TEST';
 
 export function getMapPreview(lat, lng) {
     // creo en una constante la url de mi ubicacion en el mapa como imagen.
